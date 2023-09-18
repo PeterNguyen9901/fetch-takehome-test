@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color> <!-- White Color -->
+    <color name="colorAccent">#FF5722</color> <!-- Deep Orange Color -->
+    <color name="textColorPrimary">#333333</color> <!-- Dark Gray for primary text -->
+    <color name="textColorSecondary">#9E9E9E</color> <!-- Light Gray for secondary text -->
+</resources>
